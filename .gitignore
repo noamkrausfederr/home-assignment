@@ -1,0 +1,9 @@
+# Gradle cache and build output
+.gradle/
+build/
+app/build/
+
+# Generated crawl output
+0/
+1/
+2/
